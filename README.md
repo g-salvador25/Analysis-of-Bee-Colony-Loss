@@ -4,3 +4,6 @@ The objective of this study is to analyze bee colony loss in Florida, California
 
 ## Authors
 Mallory Tyler, Gabrielle Salvador
+
+## Instructions
+Download the files and open in R studio, then knit the R Markdown document if needed. Included is the knitted pdf of the report as well.
